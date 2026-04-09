@@ -2,7 +2,7 @@
 #include<string.h>
 
   struct student{
-     char name[30];
+     char name[100];
      int rollno;
      float marks; 
      char grade;
